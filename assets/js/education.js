@@ -6,7 +6,7 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "Data Science",
-    cardImage: "assets/images/education-page/coursera2.svg",
+    cardImage: "assets/images/education-page/udacity.svg",
     moocLink: "https://www.coursera.org/browse/data-science",
   },
   {
@@ -16,7 +16,7 @@ const moocscards = [
   },
   {
     title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
+    cardImage: "assets/images/education-page/udemy.svg",
     moocLink: "https://www.coursera.org/learn/machine-learning",
   },
   {
@@ -31,7 +31,7 @@ const moocscards = [
   },
   {
     title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
+    cardImage: "assets/images/education-page/edx.svg",
     moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
   },
   {
@@ -46,13 +46,13 @@ const moocscards = [
   },
   {
     title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
+    cardImage: "assets/images/education-page/udemy.svg",
     moocLink:
       "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
   },
   {
     title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
+    cardImage: "assets/images/education-page/udacity.svg",
     moocLink: "https://www.coursera.org/learn/server-side-nodejs",
   },
   {
