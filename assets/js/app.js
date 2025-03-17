@@ -149,7 +149,7 @@ let footer = $(`
           </div>
         </div>
     </div>
-  <!---contact -->
+  <!---contact 
     <div class="container">
      <h3 class="contact">Contact </h3>
      <p class="email" >E-mail: selemekonen@gmail.com</p>
@@ -157,11 +157,11 @@ let footer = $(`
      <p class="phone" >Phone: +2519-10-42-89-88 / 2519-38-92-08-20</p>
      <p class="location" >Location : Bole Road , Addis Ababa</p>
      </div>
-   
-     <div class="rounded-social-buttons tag">
-<a class="social-button newtwitter" href="https://x.com/Seleshi1888" target="_blank" > 
+   -->
+      <!-- <div class="rounded-social-buttons tag">
+  <a class="social-button newtwitter" href="https://x.com/Seleshi1888" target="_blank" > 
 
-    <!-- svg code for newtwitter icon -->
+       svg code for newtwitter icon
     
       <svg class="newtwitter-icon-footer" xmlns="http://www.w3.org/2000/svg" width="35" viewBox="0 0 50 50" width="50px" height="50px" fill="#0e76a8"
         stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
@@ -170,14 +170,14 @@ let footer = $(`
         <circle cx="4" cy="4" r="2"></circle>
       </svg>
     </a> 
+ -->
 
- <!-- svg code for linkedin icon -->
-
-    <!-- <a class="social-button twitter" href="#" target="_blank">
-   <!-- SVG code for twitter icon -->
-   <!--  <svg class="twitter-icon-footer" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+ <!-- SVG code for twitter icon
+     <a class="social-button twitter" href="#" target="_blank">
+    <svg class="twitter-icon-footer" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" enable-background="new 0 0 500 500"
-        xml:space="preserve">-->
+        xml:space="preserve">
+         -->
         <!--bird body -->
        <!-- <path id="body" fill="#5DA8DC" d="M142.9,364.1c-1.6,1-3,1.7-4,2.3c-3,1.5-7.9,3.8-14.9,6.9c-7,3.1-14.7,5.7-23.1,7.9
                           c-8.4,2.2-15.6,3.8-21.8,4.7c-6.2,0.9-12.2,1.5-18.1,1.8s-11.4,0.3-16.7,0c-5.2-0.3-8.5-0.5-9.6-0.6l-1.8-0.2l-0.4-0.1l-0.4-0.1v0.8
@@ -232,7 +232,7 @@ let footer = $(`
     </svg>
     </a>
    -->
- <!-- linkedin -->
+ <!-- linkedin 
 
   <a class="social-button linkedin" href="https://www.linkedin.com/in/seleshi-mekonnennnn-damtew-b43ba0262" target="_blank" >
 
@@ -243,34 +243,33 @@ let footer = $(`
         <circle cx="4" cy="4" r="2"></circle>
       </svg>
     </a>
-    
-     <!-- SVG code for telegram icon  -->
+    -->
+     <!-- SVG code for telegram icon  
     <a class="social-button telegram" href="https://t.me/Sele_Yab" target="_blank">
 
       <svg class="telegram-icon" xmlns="http://www.w3.org/2000/svg" width="35"  viewBox="0 0 24 24" fill="#0e76a8" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
        
-      <!-- body -->
+     
        
                           <path id="body" fill="#00B0FF" d="M11.99432,2a10,10,0,1,0,10,10A9.99917,9.99917,0,0,0,11.99432,2Zm3.17951,15.15247a.70547.70547,0,0,1-1.002.3515l-2.71467-2.10938L9.71484,17.002a.29969.29969,0,0,1-.285.03894l.334-2.98846.01069.00848.00683-.059s4.885-4.44751,5.084-4.637c.20147-.189.135-.23.135-.23.01147-.23053-.36152,0-.36152,0L8.16632,13.299l-2.69549-.918s-.414-.1485-.453-.475c-.041-.324.46649-.5.46649-.5l10.717-4.25751s.881-.39252.881.25751Z"></path></svg>
                             <rect x="2" y="9" width="4" height="12"></rect>
                             <circle cx="4" cy="4" r="2"></circle>
                             </svg>
     </a>
-     
-                              <!-- SVG code for whatsapp icon --> 
+     -->
+                              <!-- SVG code for whatsapp icon-->  
 
-    <a class="social-button whatsapp" href="https://wa.me/+251910428988" target="_blank">
+    <!-- <a class="social-button whatsapp" href="https://wa.me/+251910428988" target="_blank">
     
    <svg class="whatsapp-icon" xmlns="http://www.w3.org/2000/svg" width="35"  viewBox="0 0 24 24" fill="#0e76a8" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
-       
-   <!-- body -->
+   --> 
+   <!-- body --> 
        
                          <path fill="#2eea6c" d="M21.99 6.547a10.59 10.59 0 0 0-.103-1.282 4.312 4.312 0 0 0-.363-1.09A3.853 3.853 0 0 0 19.83 2.48a4.299 4.299 0 0 0-1.083-.362 10.523 10.523 0 0 0-1.292-.105c-.183-.007-.42-.01-.53-.01L7.077 2c-.11 0-.347.003-.53.01a10.565 10.565 0 0 0-1.282.103 4.312 4.312 0 0 0-1.09.363A3.854 3.854 0 0 0 2.48 4.17a4.303 4.303 0 0 0-.362 1.083 10.545 10.545 0 0 0-.106 1.292c-.006.183-.01.42-.01.53L2 16.923c0 .11.003.347.01.53a10.565 10.565 0 0 0 .103 1.282 4.313 4.313 0 0 0 .363 1.09A3.854 3.854 0 0 0 4.17 21.52a4.305 4.305 0 0 0 1.083.362 10.52 10.52 0 0 0 1.292.105c.183.007.42.01.53.01l9.848.002c.11 0 .347-.003.53-.01a10.578 10.578 0 0 0 1.282-.103 4.316 4.316 0 0 0 1.09-.363 3.854 3.854 0 0 0 1.696-1.694 4.301 4.301 0 0 0 .362-1.083 10.533 10.533 0 0 0 .106-1.292c.006-.183.01-.42.01-.53L22 7.077c0-.11-.003-.347-.01-.53Zm-9.773 12.41h-.003a7.126 7.126 0 0 1-3.407-.868l-3.78.991 1.012-3.693a7.13 7.13 0 1 1 6.178 3.57Z"></path><path fill="#2eea6c" d="M12.22 5.901a5.927 5.927 0 0 0-5.023 9.076l.141.224-.599 2.186 2.243-.588.216.128a5.918 5.918 0 0 0 3.016.826h.003A5.926 5.926 0 0 0 12.219 5.9Zm3.484 8.47a1.834 1.834 0 0 1-1.202.847 2.443 2.443 0 0 1-1.122-.07 10.276 10.276 0 0 1-1.015-.376 7.94 7.94 0 0 1-3.043-2.689 3.463 3.463 0 0 1-.728-1.842 1.997 1.997 0 0 1 .624-1.485.655.655 0 0 1 .475-.223c.118 0 .237 0 .341.006.11.005.256-.042.4.306.15.356.506 1.233.55 1.322a.328.328 0 0 1 .015.312 1.216 1.216 0 0 1-.178.297c-.09.104-.187.232-.267.312-.09.089-.182.185-.079.363a5.366 5.366 0 0 0 .991 1.234 4.863 4.863 0 0 0 1.433.884c.178.09.282.074.386-.045s.445-.52.564-.698.237-.148.4-.089 1.04.49 1.218.58.297.133.341.207a1.488 1.488 0 0 1-.104.847Z"></path></svg>
                         <rect x="2" y="9" width="4" height="12"></rect>
-                        <circle cx="4" cy="4" r="2"></circle>
- <!-- instagram -->
+                        <circle cx="4" cy="4" r="2"></circle> --> 
+ <!-- instagram 
     <a class="social-button instagram" href="https://www.instagram.com/sele_mekonen?igsh=YzljYTk1ODg3Zg==" target="_blank" >
-    <!-- svg code for instagram icon  -->
 
       <svg class="instagram-icon-footer" x="0px" y="0px" viewBox="0 0 202.5 202.5"
         style="enable-background:new 0 0 202.5 202.5;">
@@ -279,32 +278,33 @@ let footer = $(`
         <circle id="lens" class="st0" cx="125.5" cy="78.6" r="2.9" />
         <path id="camera" class="st0" d="M79,60.5h44c10.5,0,19,8.5,19,19v44c0,10.5-8.5,19-19,19H79c-10.5,0-19-8.5-19-19v-44                                                                            C60,69,68.5,60.5,79,60.5z" />
       </svg>
-    </a>
-     <!-- SVG code for youtube icon -->
+    </a>-->
+     <!-- SVG code for youtube icon
 
     <a class="social-button youtube" href="https://youtube.com/@ettube9545?si=8TTGhc6Zyo33t2xL" target="_blank">
     
-   <svg class="youtube-icon" xmlns="http://www.w3.org/2000/svg" width="35"  viewBox="0 0 24 24" fill="#0e76a8" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
+   <svg class="youtube-icon" xmlns="http://www.w3.org/2000/svg" width="35"  viewBox="0 0 24 24" fill="#0e76a8" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin"> -->
    
    <!-- body -->
        
                         <path fill="#EC0C0C" d="M23,9.71a8.5,8.5,0,0,0-.91-4.13,2.92,2.92,0,0,0-1.72-1A78.36,78.36,0,0,0,12,4.27a78.45,78.45,0,0,0-8.34.3,2.87,2.87,0,0,0-1.46.74c-.9.83-1,2.25-1.1,3.45a48.29,48.29,0,0,0,0,6.48,9.55,9.55,0,0,0,.3,2,3.14,3.14,0,0,0,.71,1.36,2.86,2.86,0,0,0,1.49.78,45.18,45.18,0,0,0,6.5.33c3.5.05,6.57,0,10.2-.28a2.88,2.88,0,0,0,1.53-.78,2.49,2.49,0,0,0,.61-1,10.58,10.58,0,0,0,.52-3.4C23,13.69,23,10.31,23,9.71ZM9.74,14.85V8.66l5.92,3.11C14,12.69,11.81,13.73,9.74,14.85Z"></path></svg>
                             <rect x="2" y="4" width="4" height="12"></rect>
                             <circle cx="4" cy="4" r="2"></circle>
-<!-- SVG code for Github icon --> 
+<!-- SVG code for Github icon 
     <a class="social-button github" href="https://github.com/sele1888" target="_blank">
     
     <svg class="github-icon-footer" width="45px" height="45px" viewBox="0 0 300 300">
-        <!-- body -->
+        body 
         <path id="body" d="M112.5,234.4v43.1c24.5,7.5,50.5,7.5,75,0V225c-0.4-11.1-4.9-21.6-12.7-29.6c30-3.4,59.5-23.5,59.5-64.1
                                     c0.9-13.9-3.3-27.7-11.8-38.7c4.1-11.6,3.7-24.4-1.3-35.7c0,0-11.2-3.7-37.5,13.8c-22.1-6.1-45.3-6.1-67.4,0
                                     C90.6,53.3,78.9,56.8,78.9,56.8c-5,11.3-5.4,24.1-1.3,35.7c-8.5,11.1-12.7,24.8-11.9,38.7c0.2,33.8,26.4,61.8,60.2,64.1
                                     c-5,4.7-8.1,11.1-8.6,18" />
-        <!-- arm -->
+        arm
         <path id="arm" d="M125.2,213.4c-13.9,7.8-31.5,2.8-39.3-11.2c-4.3-7.7-12-12.8-20.7-13.8c-11.2,0-4.6,6.4,0,9.4
                                     c6,5.1,10.8,11.5,13.8,18.8c2.9,7.4,7.7,24.1,41.5,17.8" />
     
     </a>
+    --> 
    </svg>
     </div>
        </div>
