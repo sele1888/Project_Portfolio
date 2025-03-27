@@ -32,6 +32,12 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()" checked>
+   <li class="nav-item nav-item-hover">
+   <a class="nav-link" href="weather_map.html"> 
+    <a class="nav-link" href="weather_map.html">
+    <img src="assets/images/cloudy.png" alt="Weather.com Logo" width="50" height="50">
+</a>
+   
    </li>
    <div class="bike">
    <svg xmlns="http://www.w3.org/2000/svg" viewBox="-18 0 650 400" preserveAspectRatio="xMinYMin meet">
