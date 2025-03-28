@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Seleshi Mekonnen | Home">
     
-    <title>My Portfolio</title>
+    <title>Seleshi Mekonnen | Weather</title>
     <script defer src="./assets/js/app.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <script defer src="./assets/js/map.js"></script>
@@ -36,15 +37,60 @@ body{
     </style>
 </head>
 <body>
-    <h1>Welcome to My Portfolio</h1>
+    <div class="button-container">
+        <a href="/" class="home-button">
+            <img src="assets\images\.png" alt="Home" class="home-icon">
+        </a>
+    </div>
+    <style>
+           .home-button {
+        display: inline-flex;
+        padding: 10px 20px;
+        background-color: #4f8be6; /* Green color */
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        font-family: Arial, sans-serif;
+        transition: background-color 0.3s;
+        justify-content: flex-end
+  
+    }
+    
+    .home-button:hover {
+        background-color: #45a049; /* Darker green on hover */
+    }
+      
+    </style>
+    
+   
+    <!-- <h1>Welcome to My Portfolio</h1> -->
     <div id="weather"></div>
     <div id="map"></div>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script src="script.js"></script>
+      <!-- loder -->
+    <div class="loader-container">
+        <div class="atom">
+            <div class="electron"></div>
+            <div class="electron-alpha"></div>
+            <div class="electron-omega"></div>
+        </div>
+    </div>
+  <!-- loder -->
+    <div id="home">
+        <section class="center">
+            <div id="particles-js"></div>
+        </section>
+    </div>
     
     <!-- <div class="weather-display">
         <h1>Temperature: <span id="temp"></span></h1>
         <p>Description: <span id="description"></span></p>
       </div> -->
+      <script src="assets/js/app.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+      <script src='https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js'></script>
+      <script src="assets/js/particle.js"></script>
 </body>
 </html>
