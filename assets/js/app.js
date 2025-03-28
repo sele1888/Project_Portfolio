@@ -5,7 +5,6 @@ let script = document.createElement("script");
 script.type = 'text/javascript';
 script.src="https://unpkg.com/sweetalert/dist/sweetalert.min.js";
 document.body.appendChild(script);
-
 // Header  <li class="nav-item nav-item-hover"><a class="nav-link" href="event.html" target="_blank">Blogs</a></li> for new tab open 
 
 let header = $(`
@@ -35,7 +34,7 @@ let header = $(`
    <li class="nav-item nav-item-hover">
 
     <a class="nav-link" href="weather_map.html">
-    <img src="assets/images/cloudy.png" alt="Weather.com Logo" width="50" height="50">
+    <img src="assets/images/g4.gif" alt="Weather.com Logo" width="50" height="50">
 </a>
    
    </li>
@@ -310,7 +309,6 @@ let footer = $(`
         arm
         <path id="arm" d="M125.2,213.4c-13.9,7.8-31.5,2.8-39.3-11.2c-4.3-7.7-12-12.8-20.7-13.8c-11.2,0-4.6,6.4,0,9.4
                                     c6,5.1,10.8,11.5,13.8,18.8c2.9,7.4,7.7,24.1,41.5,17.8" />
-    
     </a>  
    </svg>
     </div>

@@ -3,20 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <title>My Portfolio</title>
+    <script defer src="./assets/js/app.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <script defer src="./assets/js/map.js"></script>
     <script defer src="./assets/js/weather.js"></script>
-    <script defer src="./assets/js/weather2.js"></script>
     <style>
-        #map { height: 400px; width: 100%; }
-        #weather { margin: 20px 0; }
+        #map { height: 350px; width: 95%;margin: 0 auto;  }
+        #weather { margin: 20px 0; align-items: center; }
         .daily-forecast {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 10px;
     text-align: center;
+   
 }
+body{
+            background-color: #dfe6eb; /* Black background to match the widget */
+            /* Alternatively, use #D3D3D3 for a soft gray background */
+            /* display: flex;
+            justify-content: left;
+            /* align-items: left; */
+            /* height: 100vh;
+            margin: 0; */ 
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+           
+        }
     </style>
 </head>
 <body>
@@ -26,9 +42,9 @@
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script src="script.js"></script>
     
-    <div class="weather-display">
+    <!-- <div class="weather-display">
         <h1>Temperature: <span id="temp"></span></h1>
         <p>Description: <span id="description"></span></p>
-      </div>
+      </div> -->
 </body>
 </html>
